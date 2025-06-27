@@ -1,3 +1,3 @@
-module github.com/mitchellh/hashstructure/v2
+module go.openly.dev/hashstructure
 
 go 1.18
